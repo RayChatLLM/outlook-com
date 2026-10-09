@@ -25,7 +25,7 @@ Download the release zip and install it with RayChat's plugin manager:
 or directly from the release URL:
 
 ```
-/plugins install https://github.com/turnersr/outlook-com/releases/download/vX.Y.Z/outlook_com-X.Y.Z.zip
+/plugins install https://github.com/RayChatLLM/outlook-com/releases/download/vX.Y.Z/outlook_com-X.Y.Z.zip
 ```
 
 The plugin also runs standalone without RayChat:
